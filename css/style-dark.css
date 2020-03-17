@@ -828,7 +828,7 @@ header .header-mobile {
       font-size: 16px;
       font-weight: 700;
       letter-spacing: .5px;
-      border-bottom: 2px solid #fff;
+/*       border-bottom: 2px solid #fff; */
       position: relative;
       display: inline-block;
       margin-right: 15px;
